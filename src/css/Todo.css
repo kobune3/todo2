@@ -1,0 +1,43 @@
+/* .todo-title {
+  color: white;
+  background-color: rgb(254, 105, 112);
+}
+
+.todo-input-field {
+  margin-bottom: 20px;
+}
+
+.todo-input-field input {
+  width: 300px;
+  height: 30px;
+  margin-right: 20px;
+}
+
+.todo-input-field button{
+  padding: 8px 20px;
+}
+
+.todo-list {
+  padding: 0 525px;
+  text-align: left;
+}
+
+.submit {
+  color: white;
+  background-color: rgb(254, 105, 112);
+}
+
+.list {
+  margin-bottom: 10px; 
+}
+
+.delete {
+  float: right;
+  color: white;
+  background-color: rgb(254, 105, 112);
+}
+
+.submit:hover, .delete:hover {
+  background-color: rgb(243, 66, 75);
+  cursor: pointer;
+} */
